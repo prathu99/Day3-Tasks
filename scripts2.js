@@ -1,4 +1,4 @@
-//
+//2. Create your own resume data in JSON format
 
 let Resume = {
     "bio": {
